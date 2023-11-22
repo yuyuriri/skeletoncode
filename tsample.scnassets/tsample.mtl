@@ -1,0 +1,83 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl FABRIC_1_FRONT_3054
+Ka 0.174446 0.158313 0.138145
+Kd 0.678431 0.615686 0.537255
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+newmtl FABRIC_2_FRONT_3059
+Ka 0.009075 0.009075 0.009075
+Kd 0.035294 0.035294 0.035294
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Kn C:/Users/thebe/AppData/Local/CLO/CLO Standalone/11152/1021/TD_FABRIC39_normal.jpg
+newmtl FABRIC_2_Copy_1_FRONT_3066
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Kn D:/Modeling/Components/Нормали/TD_FABRIC39_normal.jpg
+newmtl Material2388748
+Ka 0.067560 0.067560 0.067560
+Kd 0.262745 0.262745 0.262745
+Ks 0.091112 0.091112 0.091112
+Ns 50.999996
+illum 2
+d 1.000000
+map_Ka C:/Users/thebe/AppData/Local/CLO/CLO Standalone/11152/1439/Puller_03.jpg
+map_Kd C:/Users/thebe/AppData/Local/CLO/CLO Standalone/11152/1439/Puller_03.jpg
+newmtl Material2388750
+Ka 0.067560 0.067560 0.067560
+Kd 0.262745 0.262745 0.262745
+Ks 0.091112 0.091112 0.091112
+Ns 50.999996
+illum 2
+d 1.000000
+map_Ka C:/Users/thebe/AppData/Local/CLO/CLO Standalone/11152/1439/Puller_03.jpg
+map_Kd C:/Users/thebe/AppData/Local/CLO/CLO Standalone/11152/1439/Puller_03.jpg
+newmtl Material2388754
+Ka 0.067560 0.067560 0.067560
+Kd 0.262745 0.262745 0.262745
+Ks 0.091112 0.091112 0.091112
+Ns 50.999996
+illum 2
+d 1.000000
+map_Ka C:/Users/thebe/AppData/Local/CLO/CLO Standalone/11152/1439/Puller_03.jpg
+map_Kd C:/Users/thebe/AppData/Local/CLO/CLO Standalone/11152/1439/Puller_03.jpg
+newmtl Material2388752
+Ka 0.067560 0.067560 0.067560
+Kd 0.262745 0.262745 0.262745
+Ks 0.091112 0.091112 0.091112
+Ns 50.999996
+illum 2
+d 1.000000
+map_Ka C:/Users/thebe/AppData/Local/CLO/CLO Standalone/11152/1439/Puller_03.jpg
+map_Kd C:/Users/thebe/AppData/Local/CLO/CLO Standalone/11152/1439/Puller_03.jpg
+newmtl FABRIC_3_FRONT_1168771
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+newmtl Fabric2385162_FRONT_2385162
+Ka 0.076635 0.076635 0.076635
+Kd 0.298039 0.298039 0.298039
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka C:/Program Files/CLO Standalone/Preset/Zipper/Plastic.png
+map_Kd C:/Program Files/CLO Standalone/Preset/Zipper/Plastic.png
+newmtl FABRIC_1_Copy_1_FRONT_2056492
+Ka 0.203689 0.176730 0.143780
+Kd 0.792157 0.687312 0.559167
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "09AF4666-92EC-4282-9958-31D22B6E3FC3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D557E960-74D1-4241-9B3C-0D77C2DD23E3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARViewContainer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "session(_:didUpdate:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D557E960-74D1-4241-9B3C-0D77C2DD23E3 - a205660c8e40d744"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealityKit.ARView.session(_: __C.ARSession, didUpdate: Swift.Array&lt;__C.ARAnchor&gt;) -&gt; ()"
+                  moduleName = "skeleton"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/namekawayurie/Desktop/mobileapp/skeletoncode/ARViewContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1216">
+               </Location>
+               <Location
+                  uuid = "D557E960-74D1-4241-9B3C-0D77C2DD23E3 - a205660c8e40d744"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealityKit.ARView.session(_: __C.ARSession, didUpdate: Swift.Array&lt;__C.ARAnchor&gt;) -&gt; ()"
+                  moduleName = "skeleton"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/namekawayurie/Desktop/mobileapp/skeletoncode/ARViewContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "932">
+               </Location>
+               <Location
+                  uuid = "D557E960-74D1-4241-9B3C-0D77C2DD23E3 - a205660c8e40d744"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealityKit.ARView.session(_: __C.ARSession, didUpdate: Swift.Array&lt;__C.ARAnchor&gt;) -&gt; ()"
+                  moduleName = "skeleton"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/namekawayurie/Desktop/mobileapp/skeletoncode/ARViewContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
